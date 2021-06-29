@@ -158,7 +158,7 @@
 	<remote model="osninoplus" rcType="0" codeName="edision2" displayName="OS Nino Plus" />
 	<remote model="osninopro" rcType="0" codeName="edision2" displayName="OS Nino Pro" />
 	<remote model="protek4kx1" rcType="0" codeName="protek3" displayName="Protek 4K X1" />
-	<remote model="pulse4k" rcType="0" codeName="abcom" displayName="Pulse 4K" />
+	<remote model="pulse4k" rcType="30" codeName="abcom" displayName="Pulse 4K" />
 	<remote model="purehd" rcType="0" codeName="fusionhd" displayName="Pure HD" />
 	<remote model="purehdse" rcType="0" codeName="fusionhd" displayName="Pure HD SE" />
 	<remote model="qboxhd" rcType="0" codeName="qbox" displayName="Qbox HD" />
