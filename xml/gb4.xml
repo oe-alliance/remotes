@@ -1,6 +1,6 @@
 <rcs>
 	<rc image="/images/remotes/gb4.png">
-		<button id="KEY_TV" label="TV/RAD" pos="23,21" title="TV / Radio" shape="rect" coords="11,14,35,28" />
+		<button id="KEY_TV" remap="KEY_TV2" label="TV/RAD" pos="23,21" title="TV / Radio" shape="rect" coords="11,14,35,28" />
 		<button id="KEY_POWER" label="POWER" pos="57,19" title="Power" shape="rect" coords="36,10,78,28" />
 		<button id="KEY_MUTE" label="MUTE" pos="91,21" title="Mute" shape="rect" coords="79,14,103,28" />
 		<button id="KEY_RESERVED" label="GIGA" pos="22,45" title="GIGA" shape="rect" coords="11,37,33,53" />
