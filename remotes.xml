@@ -197,6 +197,7 @@
 	<remote model="sf238" rcType="0" codeName="sf2x8" displayName="SF238" />
 	<remote model="sf8008" rcType="0" codeName="sf8008" displayName="SF8008" />
 	<remote model="sf8008m" rcType="0" codeName="sf8008" displayName="SF8008m" />
+	<remote model="sf8008ta" rcType="0" codeName="sf8008" displayName="SF8008ta" />
 	<remote model="sf98" rcType="0" codeName="sf98" displayName="SF98" />
 	<remote model="singleboxlcd" rcType="0" codeName="red2" displayName="Single Box LCD" />
 	<remote model="sogno8800hd" rcType="0" codeName="sogno" displayName="Sogno 8800HD" />
