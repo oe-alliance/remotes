@@ -30,7 +30,7 @@
 		<button id="KEY_VOLUMEUP" label="VOL+" pos="33,322" title="Volume +" shape="circle" coords="33,322,13" />
 		<button id="KEY_CHANNELUP" label="BOUQUET+" pos="95,322" title="Channel +" shape="circle" coords="95,322,13" />
 		<button id="KEY_EXIT" label="EXIT" pos="64,326" title="Exit" shape="circle" coords="64,326,8" />
-		<button id="KEY_INFO" remap="KEY_EPG" label="EPG" pos="64,349" title="EPG" shape="circle" coords="64,349,8" />
+		<button id="KEY_INFO" label="INFO" pos="64,349" title="EPG" shape="circle" coords="64,349,8" />
 		<button id="KEY_VOLUMEDOWN" label="VOL-" pos="33,355" title="Volume -" shape="circle" coords="33,355,11" />
 		<button id="KEY_CHANNELDOWN" label="BOUQUET-" pos="95,355" title="Channel -" shape="circle" coords="95,355,11" />
 		<button id="KEY_MENU" label="MENU" pos="29,380" title="Menu" shape="circle" coords="29,380,9" />
