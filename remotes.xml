@@ -438,6 +438,7 @@
 	<remote model="zgemmah9twin" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9 TWIN" />
 	<remote model="h9combose" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9 Combo SE" />
 	<remote model="zgemmah9combose" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9 Combo SE" />
+	<remote model="zgemmah9twinse" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9 TWIN SE" />
 	<remote model="h9se" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9 SE" />
 	<remote model="zgemmah92hse" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9.2H SE" />
 	<remote model="zgemmah9sse" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H9S SE" />
