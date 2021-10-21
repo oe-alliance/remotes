@@ -446,9 +446,9 @@
 	<remote model="zgemmah10combo" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H10 COMBO" />
 	<remote model="zgemmah102h" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H10.2S" />
 	<remote model="zgemmah102s" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H10.2H" />
-	<remote model="h11" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H11" />
-	<remote model="zgemmah11s" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H11.S" />
-	<remote model="zgemmah112h" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H11.2H" />
+	<remote model="h11" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H11" />
+	<remote model="zgemmah11s" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H11.S" />
+	<remote model="zgemmah112h" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H11.2H" />
 	<remote model="i55plusse" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma i55 Plus SE" />
 	<remote model="bre2zet2c" rcType="500" codeName="wwio1" displayName="WWIO BRE2ZE T2C" />
 	<remote model="sf128" rcType="501" codeName="sf3038" displayName="Octagon SF4128" />
