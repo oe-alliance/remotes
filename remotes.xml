@@ -209,6 +209,7 @@
 	<remote model="spycatminiv2" rcType="0" codeName="spycat1" displayName="Spycat Mini V2" />
 	<remote model="spycatminiplus" rcType="0" codeName="xcore1" displayName="Spycat Mini Plus" />
 	<remote model="su980" rcType="0" codeName="dmm1" displayName="SU 980" />
+	<remote model="sx988" rcType="0" codeName="octagon1" displayName="sx988" />
 	<remote model="t2cable" rcType="0" codeName="evo4" displayName="T2 Cable" />
 	<remote model="tiviaraplus" rcType="0" codeName="tiviar1" displayName="Tiviara Plus" />
 	<remote model="tiviarmin" rcType="0" codeName="tiviar1" displayName="Tiviarmin" />
@@ -234,7 +235,8 @@
 	<remote model="ufc960" rcType="0" codeName="spark" displayName="Ufc 960" />
 	<remote model="ultrabox" rcType="0" codeName="triplex" displayName="Ultrabox" />
 	<remote model="uniboxhde" rcType="0" codeName="uniboxhde" displayName="Unibox HDe" />
-	<remote model="ustym4kpro" rcType="0" codeName="uclan" displayName="Ustym 4K Pro" />
+	<remote model="ustym4kpro" rcType="0" codeName="uclan1" displayName="Ustym 4K Pro" />
+	<remote model="ustym4kott" rcType="0" codeName="uclan2" displayName="Ustym 4K OTT" />
 	<remote model="valalinux" rcType="0" codeName="vala" displayName="Vala Linux" />
 	<remote model="ventonhdx" rcType="0" codeName="ini0" displayName="Venton HDx" />
 	<remote model="viper4k" rcType="0" codeName="amiko4" displayName="Viper 4K" />
