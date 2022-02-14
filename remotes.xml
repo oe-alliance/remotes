@@ -417,6 +417,8 @@
 	<remote model="protek4k" rcType="26" codeName="protek2" displayName="Protek X1 4K UHD" />
 	<remote model="hd60" rcType="27" codeName="hd60" displayName="AX/Mutant HD60" />
 	<remote model="mutant60" rcType="27" codeName="hd60" displayName="Mutant HD60" />
+	<remote model="hd66se" rcType="27" codeName="hd66se" displayName="AX/Mutant HD66se " />
+	<remote model="mutant66se" rcType="27" codeName="hd66se" displayName="Mutant HD66se" />
 	<remote model="ax60" rcType="27" codeName="hd60" displayName="AX HD60" />
 	<remote model="multibox" rcType="27" codeName="maxytec1" displayName="MultiBox" />
 	<remote model="anadolmulti" rcType="27" codeName="anadol2" displayName="ANADOL MultiBox" />
