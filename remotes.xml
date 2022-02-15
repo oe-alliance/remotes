@@ -424,8 +424,10 @@
 	<remote model="anadolmulti" rcType="27" codeName="anadol2" displayName="ANADOL MultiBox" />
 	<remote model="maxytecmulti" rcType="27" codeName="maxytec1" displayName="Maxytec MultiBox" />
 	<remote model="axmulticombo" rcType="27" codeName="ax5" displayName="AX MultiBox Combo" />
+	<remote model="axmultiboxse" rcType="27" codeName="ax5" displayName="AX MultiBox SE" />
 	<remote model="axmultitwin" rcType="27" codeName="ax5" displayName="AX MultiBox Twin" />
 	<remote model="anadolmultitwin" rcType="27" codeName="anadol2" displayName="ANADOL MultiBox Twin" />
+	<remote model="anadolmultiboxse" rcType="27" codeName="anadol2" displayName="ANADOL MultiBox SE" />
 	<remote model="novaler4k" rcType="27" codeName="maxytec1" displayName="NOVALER MultiBox 4L" />
 	<remote model="multiboxse" rcType="27" codeName="maxytec1" displayName="MultiBox SE" />
 	<remote model="maxytecmultise" rcType="27" codeName="maxytec1" displayName="Maxytec MultiBox SE" />
