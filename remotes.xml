@@ -93,11 +93,11 @@
 	<remote model="gb800solo" rcType="0" codeName="gb0" displayName="GigaBlue 800 Solo" />
 	<remote model="gb800ue" rcType="0" codeName="gb0" displayName="GigaBlue 800 UE" />
 	<remote model="gb800ueplus" rcType="0" codeName="gb0" displayName="GigaBlue 800 UE Plus" />
-	<remote model="gbip4k" rcType="0" codeName="gb3" displayName="GigaBlue IP 4K" />
+	<remote model="gbip4k" rcType="0" codeName="gb4" displayName="GigaBlue IP 4K" />
 	<remote model="gbipbox" rcType="0" codeName="gb0" displayName="GigaBlue IP Box" />
 	<remote model="gbquad" rcType="0" codeName="gb0" displayName="GigaBlue Quad" />
 	<remote model="gbquad4k" rcType="0" codeName="gb3" displayName="GigaBlue Quad 4K" />
-	<remote model="gbtrio4k" rcType="0" codeName="gb3" displayName="GigaBlue Trio 4K" />
+	<remote model="gbtrio4k" rcType="0" codeName="gb4" displayName="GigaBlue Trio 4K" />
 	<remote model="gbue4k" rcType="0" codeName="gb3" displayName="GigaBlue UHD UE 4K - Old Model" />
 	<remote model="gbue4k" rcType="0" codeName="gb4" displayName="GigaBlue UHD UE 4K - New Model" />
 	<remote model="gbultrase" rcType="0" codeName="gb0" displayName="GigaBlue Ultra SE" />
