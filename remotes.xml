@@ -214,7 +214,7 @@
 	<remote model="spycatminiplus" rcType="0" codeName="xcore1" displayName="Spycat Mini Plus" />
 	<remote model="su980" rcType="0" codeName="dmm1" displayName="SU 980" />
 	<remote model="sx988" rcType="0" codeName="octagon2" displayName="sx988" />
-	<remote model="ip8" rcType="0" codeName="octagon2" displayName="ip8" />
+	<remote model="ip8" rcType="0" codeName="anadol4" displayName="ip8" />
 	<remote model="t2cable" rcType="0" codeName="evo4" displayName="T2 Cable" />
 	<remote model="tiviaraplus" rcType="0" codeName="tiviar1" displayName="Tiviara Plus" />
 	<remote model="tiviarmin" rcType="0" codeName="tiviar1" displayName="Tiviarmin" />
