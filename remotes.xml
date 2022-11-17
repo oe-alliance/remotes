@@ -21,6 +21,8 @@
 	<remote model="axashis4kcombo" rcType="0" codeName="axas1" displayName="Axashis 4K Combo" />
 	<remote model="axashis4kcomboplus" rcType="0" codeName="axas1" displayName="Axashis 4K Combo Plus" />
 	<remote model="axashisc4k" rcType="0" codeName="axas2" displayName="Axashis C4K" />
+	<remote model="axas4kcombo" rcType="0" codeName="axas2" displayName="Axas 4K COMBO" />
+	<remote model="axas4ktwin" rcType="0" codeName="axas2" displayName="Axas 4K TWIN" />
 	<remote model="axashistwin" rcType="0" codeName="axas3" displayName="Axashis Twin" />
 	<remote model="axashistwinplus" rcType="0" codeName="axas4" displayName="Axashis Twin Plus" />
 	<remote model="azboxhd" rcType="0" codeName="azboxhd" displayName="AZ Box HD" />
