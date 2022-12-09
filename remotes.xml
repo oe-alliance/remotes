@@ -437,6 +437,7 @@
 	<remote model="anadolmultiboxse" rcType="27" codeName="anadol2" displayName="ANADOL MultiBox SE" />
 	<remote model="novaler4k" rcType="27" codeName="maxytec1" displayName="NOVALER MultiBox 4K" />
 	<remote model="novaler4kse" rcType="27" codeName="maxytec1" displayName="NOVALER MultiBox 4K SE" />
+	<remote model="novaler4kpro" rcType="27" codeName="maxytec1" displayName="NOVALER MultiBox 4K PRO" />
 	<remote model="multiboxse" rcType="27" codeName="maxytec1" displayName="MultiBox SE" />
 	<remote model="maxytecmultise" rcType="27" codeName="maxytec1" displayName="Maxytec MultiBox SE" />
 	<remote model="h7" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H7 - New model" />
