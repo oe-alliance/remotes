@@ -205,6 +205,7 @@
 	<remote model="sfx6008" rcType="0" codeName="octagon3" displayName="sfx6008" />
 	<remote model="sfx6018" rcType="0" codeName="octagon3" displayName="sfx6018" />
 	<remote model="sx88v2" rcType="0" codeName="octagon3" displayName="sx88v2" />
+	<remote model="sx888" rcType="0" codeName="octagon3" displayName="sx888" />
 	<remote model="sf98" rcType="0" codeName="sf98" displayName="SF98" />
 	<remote model="singleboxlcd" rcType="0" codeName="red2" displayName="Single Box LCD" />
 	<remote model="sogno8800hd" rcType="0" codeName="sogno" displayName="Sogno 8800HD" />
