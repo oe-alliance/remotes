@@ -256,8 +256,8 @@
 	<remote model="vipertwin" rcType="0" codeName="amiko6" displayName="Viper Twin E2" />
 	<remote model="vuduo" rcType="0" codeName="vu" displayName="VU+ DUO" />
 	<remote model="vuduo2" rcType="0" codeName="vu3" displayName="VU+ DUO 2" />
-	<remote model="vuduo4k" rcType="0" codeName="vu4" displayName="VU+ DUO 4K" />
-	<remote model="vuduo4kse" rcType="0" codeName="vu4" displayName="VU+ DUO 4K SEe" />
+	<remote model="vuduo4k" rcType="0" codeName="vu6" displayName="VU+ DUO 4K" />
+	<remote model="vuduo4kse" rcType="0" codeName="vu6" displayName="VU+ DUO 4K SEe" />
 	<remote model="vusolo" rcType="0" codeName="vu" displayName="VU+ Solo" />
 	<remote model="vusolo2" rcType="0" codeName="vu" displayName="VU+ Solo 2" />
 	<remote model="vusolo4k" rcType="0" codeName="vu" displayName="VU+ Solo 4K" />
@@ -266,9 +266,9 @@
 	<remote model="vuultimo4k" rcType="0" codeName="vu" displayName="VU+ Ultimo 4K" />
 	<remote model="vuuno" rcType="0" codeName="vu" displayName="VU+ UNO" />
 	<remote model="vuuno4k" rcType="0" codeName="vu" displayName="VU+ UNO 4K" />
-	<remote model="vuuno4kse" rcType="0" codeName="vu4" displayName="VU+ UNO 4K SEe" />
+	<remote model="vuuno4kse" rcType="0" codeName="vu6" displayName="VU+ UNO 4K SEe" />
 	<remote model="vuzero" rcType="0" codeName="vu" displayName="VU+ Zero" />
-	<remote model="vuzero4k" rcType="0" codeName="vu4" displayName="VU+ Zero 4K" />
+	<remote model="vuzero4k" rcType="0" codeName="vu6" displayName="VU+ Zero 4K" />
 	<remote model="wetekhub" rcType="0" codeName="wetek3" displayName="Wetek Hub" />
 	<remote model="wetekplay" rcType="0" codeName="wetek" displayName="Wetek Play" />
 	<remote model="wetekplay2" rcType="0" codeName="wetek2" displayName="Wetek Play2" />
