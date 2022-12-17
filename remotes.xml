@@ -277,7 +277,8 @@
 	<remote model="x1plus" rcType="0" codeName="evo3" displayName="X1 Plus" />
 	<remote model="x2plus" rcType="0" codeName="evo2" displayName="X2 Plus" />
 	<remote model="xcombo" rcType="0" codeName="evo3" displayName="X Combo" />
-	<remote model="xpeedlx" rcType="0" codeName="ini4" displayName="XpeedlX" />
+	<remote model="xpeedlx1" rcType="0" codeName="ini4" displayName="XpeedlX" />
+	<remote model="xpeedlx2" rcType="0" codeName="ini4" displayName="XpeedlX" />
 	<remote model="xpeedlx3" rcType="0" codeName="ini4" displayName="XpeedlX3" />
 	<remote model="inihde2" rcType="3" codeName="ini2" displayName="HDx 0x0933 Code set" />
 	<remote model="inihdp" rcType="3" codeName="ini2" displayName="HDx 0x0933 Code set" />
