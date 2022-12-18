@@ -1,11 +1,11 @@
 <rcs>
 	<rc>
-		<button id="KEY_MUTE" label="MUTE" pos="26,30" />
+		<button id="KEY_RESERVED" label="TV Power" pos="26,30" />
 		<button id="KEY_POWER" label="POWER" pos="102,30" />
 		<button id="KEY_TEXT" label="TEXT" pos="26,56" />
 		<button id="KEY_SUBTITLE" label="SUBTITLE" pos="52,56" />
-		<button id="KEY_HOME" label="HOME" pos="77,56" />
-		<button id="KEY_END" label="END" pos="102,56" />
+		<button id="KEY_RESERVED" label="A/V" pos="77,56" />
+		<button id="KEY_MUTE" label="MUTE" pos="102,56" />
 		<button id="KEY_1" label="1" pos="31,84" />
 		<button id="KEY_2" label="2" pos="64,84" />
 		<button id="KEY_3" label="3" pos="98,84" />
