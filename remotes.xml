@@ -60,8 +60,8 @@
 	<remote model="dm7020hdv2" rcType="0" codeName="dmm2" displayName="Dream Multimedia 7020HD V2" />
 	<remote model="dm7080" rcType="0" codeName="dmm2" displayName="Dream Multimedia 7080" />
 	<remote model="dm8000" rcType="0" codeName="dmm0" displayName="Dream Multimedia 8000" />
-	<remote model="dreamone" rcType="0" codeName="dmm2" displayName="Dream Multimedia One" />
-	<remote model="dreamtwo" rcType="0" codeName="dmm2" displayName="Dream Multimedia Two" />
+	<remote model="dreamone" rcType="0" codeName="dmm3" displayName="Dream Multimedia One" />
+	<remote model="dreamtwo" rcType="0" codeName="dmm3" displayName="Dream Multimedia Two" />
 	<remote model="dual" rcType="0" codeName="qviart5" displayName="Dual" />
 	<remote model="e4hdcombo" rcType="0" codeName="e4hdcombo" displayName="E4HD Combo" />
 	<remote model="e4hdhybrid" rcType="0" codeName="e4hd" displayName="E4HD Hybrid" />
