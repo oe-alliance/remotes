@@ -1,0 +1,29 @@
+name: updatepreviews
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: 'master'
+
+      - name: updatepreviews
+        run: |
+          sudo apt-get -q update
+          pip3 install Pillow 
+          git config --global user.email "bot@oe-alliance.com"
+          git config --global user.name "oe-alliance python bot"
+          git clean -fd
+          git checkout master
+          mkdir -p ./previews
+          python ./makepreviews.py
+          git add -u
+          git add *
+          git commit -m "update previews"
+          git remote add upstream https://${GITHUB_TOKEN}@github.com/oe-alliance/remotes.git > /dev/null 2>&1
+          git push --quiet upstream master || echo "failed to push with error $?"
