@@ -6,17 +6,16 @@ from PIL import ImageDraw
 import xml.etree.ElementTree as ET
 
 
-pos = 0
 for f in listdir("./png/"):
     if "png" in f and isfile(join("./xml", f.replace(".png", ".xml"))):
         with Image.open(join("./png", f)) as im:
             dst = Image.new('RGBA', (154, 500))
-            dst.paste((0, 0, 0), [0, 0, dst.size[0], dst.size[1]])
+            dst.paste((255, 255, 255), [0, 0, dst.size[0], dst.size[1]])
             l = 154 - im.width
             t = 500 - im.height
             dst.paste(im, (0, 0))
             preview = Image.new('RGBA', (154 * 3, 500))
-            preview.paste(dst, (0, pos * 500))
+            preview.paste(dst, (0, 0))
             tree = ET.parse(join("./xml", f.replace(".png", ".xml")))
             root = tree.getroot()
             rc = root.find("rc")
@@ -35,7 +34,6 @@ for f in listdir("./png/"):
                 ldraw.text((10, 20 + (bpos * 9)), txt, fill="black")
                 bpos += 1
 
-            preview.paste(dst, (155, pos * 500))
-            preview.paste(legend, (155 + 154, pos * 500))
-            pos += 1
+            preview.paste(dst, (155, 0))
+            preview.paste(legend, (155 + 154, 0))
             preview.save(join("./previews", f))
