@@ -16,14 +16,14 @@ jobs:
         run: |
           sudo apt-get -q update
           pip3 install Pillow 
-          git config --global user.email "bot@oe-alliance.com"
-          git config --global user.name "oe-alliance python bot"
-          git clean -fd
-          git checkout master
           mkdir -p ./previews
           python ./makepreviews.py
-          git add -u
-          git add *
-          git commit -m "update previews"
-          git remote add upstream https://${GITHUB_TOKEN}@github.com/oe-alliance/remotes.git > /dev/null 2>&1
-          git push --quiet upstream master || echo "failed to push with error $?"
+          echo "#Previews" > ./previews/README.md
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: previews
+          publish_dir: ./previews
+          force_orphan: true
