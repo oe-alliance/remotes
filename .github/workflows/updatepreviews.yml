@@ -20,7 +20,9 @@ jobs:
           pip3 install Pillow 
           mkdir -p ./previews
           python ./makepreviews.py
-          echo "#Previews" > ./previews/README.md
+          echo "# remotes previews" > ./previews/README.md
+          echo "# remotes check result" >> ./previews/README.md
+          python ./checkremotes.py >> ./previews/README.md
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
