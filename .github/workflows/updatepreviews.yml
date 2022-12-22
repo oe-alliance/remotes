@@ -21,7 +21,7 @@ jobs:
           mkdir -p ./previews
           python ./makepreviews.py
           echo "# remotes previews" > ./previews/README.md
-          echo "# remotes check result" >> ./previews/README.md
+          echo "## remotes check result" >> ./previews/README.md
           python ./checkremotes.py >> ./previews/README.md
 
       - name: Deploy
