@@ -50,7 +50,7 @@
 		<button id="KEY_REWIND" label="REWIND" pos="26,389" title="Rewind" shape="rect" coords="11,380,41,398" />
 		<button id="KEY_PLAYPAUSE" label="PLAY/PAUSE" pos="57,389" title="Play / Pause" shape="rect" coords="42,380,72,398" />
 		<button id="KEY_FASTFORWARD" label="FAST FORWARD" pos="88,389" title="Fast Forward" shape="rect" coords="73,380,103,398" />
-		<button keyid="KEY_CONTEXT_MENU" remap="KEY_AUX" name="HDMI-IN" title="HDMI-In" pos="26,409" shape="rect" size="30,17" />		
+		<button id="KEY_CONTEXT_MENU" remap="KEY_AUX" name="HDMI-IN" title="HDMI-In" pos="26,409" shape="rect" size="30,17" />		
 		<button id="KEY_F1" remap="KEY_HELP" label="F1/HELP" pos="26,409" title="F1 / Help" shape="rect" coords="11,400,41,417" />
 		<button id="KEY_LIST" label="PLAYLIST" pos="57,409" title="Play List" shape="rect" coords="42,400,72,417" />
 		<button id="KEY_F2" remap="KEY_SCREEN" label="PIP" pos="88,409" title="PIP" shape="rect" coords="73,400,103,417" />
