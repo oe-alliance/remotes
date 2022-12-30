@@ -1,53 +1,53 @@
-<rcs>
-	<rc image="/images/remotes/sf8008.png">
-		<button id="KEY_POWER" label="Power" pos="24,59" />
-		<button id="KEY_MUTE" label="Mute" pos="101,59" />
-		<button id="KEY_F1" label="F1" pos="20,84" />
-		<button id="KEY_F2" label="F2" pos="49,84" />
-		<button id="KEY_HELP" label="Help" pos="77,84" />
-		<button id="KEY_RESERVED" label="Magic" pos="106,84" />
-		<button id="KEY_1" label="1" pos="23,103" />
-		<button id="KEY_2" label="2" pos="62,103" />
-		<button id="KEY_3" label="3" pos="102,103" />
-		<button id="KEY_4" label="4" pos="23,122" />
-		<button id="KEY_5" label="5" pos="62,122" />
-		<button id="KEY_6" label="6" pos="102,122" />
-		<button id="KEY_7" label="7" pos="23,142" />
-		<button id="KEY_8" label="8" pos="62,142" />
-		<button id="KEY_9" label="9" pos="102,142" />
-		<button id="KEY_PREVIOUS" label="Arrow Left" pos="23,161" />
-		<button id="KEY_0" label="0" pos="62,161" />
-		<button id="KEY_NEXT" label="Arrow Right" pos="102,161" />
-		<button id="KEY_VOLUMEUP" label="Vol +" pos="22,190" />
-		<button id="KEY_CHANNELUP" label="Ch +" pos="102,190" />
-		<button id="KEY_VIDEO" remap="KEY_FILE" label="Playlist" pos="62,191" />
-		<button id="KEY_VOLUMEDOWN" label="Vol -" pos="22,224" />
-		<button id="KEY_EPG" label="EPG" pos="62,224" />
-		<button id="KEY_CHANNELDOWN" label="Ch -" pos="102,224" />
-		<button id="KEY_MENU" label="Menu" pos="23,257" />
-		<button id="KEY_UP" label="Up" pos="62,257" />
-		<button id="KEY_EXIT" label="Exit" pos="102,257" />
-		<button id="KEY_OK" label="OK" pos="62,294" />
-		<button id="KEY_LEFT" label="Left" pos="23,295" />
-		<button id="KEY_RIGHT" label="Right" pos="102,295" />
-		<button id="KEY_INFO" label="Info" pos="23,333" />
-		<button id="KEY_DOWN" label="Down" pos="62,333" />
-		<button id="KEY_BACK" label="Recall" pos="102,333" />
-		<button id="KEY_RED" label="Red" pos="19,361" />
-		<button id="KEY_GREEN" label="Green" pos="48,361" />
-		<button id="KEY_YELLOW" label="Yellow" pos="76,361" />
-		<button id="KEY_BLUE" label="Blue" pos="105,361" />
-		<button id="KEY_REWIND" label="Rewind" pos="20,387" />
-		<button id="KEY_PLAY" label="Play" pos="48,387" />
-		<button id="KEY_PAUSE" label="Pause" pos="76,387" />
-		<button id="KEY_FASTFORWARD" label="Fast Forward" pos="104,387" />
-		<button id="KEY_AUDIO" label="Audio" pos="20,404" />
-		<button id="KEY_STOP" label="Stop" pos="48,404" />
-		<button id="KEY_RECORD" label="Record" pos="76,404" />
-		<button id="KEY_KEYBOARD" remap="KEY_BOOKMARKS" label="Context" pos="104,404" />
-		<button id="KEY_TEXT" label="TXT" pos="20,422" />
-		<button id="KEY_SUBTITLE" label="SUBT" pos="48,422" />
-		<button id="KEY_TV" label="TV/Radio" pos="76,422" />
-		<button id="KEY_FAVORITES" label="FAV" pos="104,422" />
-	</rc>
-</rcs>
+<remote>
+	<buttons>
+		<button label="Power" pos="24,59" keyid="KEY_POWER" />
+		<button label="Mute" pos="101,59" keyid="KEY_MUTE" />
+		<button label="F1" pos="20,84" keyid="KEY_F1" />
+		<button label="F2" pos="49,84" keyid="KEY_F2" />
+		<button label="Help" pos="77,84" keyid="KEY_HELP" />
+		<button label="Magic" pos="106,84" keyid="KEY_RESERVED" />
+		<button label="1" pos="23,103" keyid="KEY_1" />
+		<button label="2" pos="62,103" keyid="KEY_2" />
+		<button label="3" pos="102,103" keyid="KEY_3" />
+		<button label="4" pos="23,122" keyid="KEY_4" />
+		<button label="5" pos="62,122" keyid="KEY_5" />
+		<button label="6" pos="102,122" keyid="KEY_6" />
+		<button label="7" pos="23,142" keyid="KEY_7" />
+		<button label="8" pos="62,142" keyid="KEY_8" />
+		<button label="9" pos="102,142" keyid="KEY_9" />
+		<button label="Arrow Left" pos="23,161" keyid="KEY_PREVIOUS" />
+		<button label="0" pos="62,161" keyid="KEY_0" />
+		<button label="Arrow Right" pos="102,161" keyid="KEY_NEXT" />
+		<button label="Vol +" pos="22,190" keyid="KEY_VOLUMEUP" />
+		<button label="Ch +" pos="102,190" keyid="KEY_CHANNELUP" />
+		<button remap="KEY_FILE" label="Playlist" pos="62,191" keyid="KEY_VIDEO" />
+		<button label="Vol -" pos="22,224" keyid="KEY_VOLUMEDOWN" />
+		<button label="EPG" pos="62,224" keyid="KEY_EPG" />
+		<button label="Ch -" pos="102,224" keyid="KEY_CHANNELDOWN" />
+		<button label="Menu" pos="23,257" keyid="KEY_MENU" />
+		<button label="Up" pos="62,257" keyid="KEY_UP" />
+		<button label="Exit" pos="102,257" keyid="KEY_EXIT" />
+		<button label="OK" pos="62,294" keyid="KEY_OK" />
+		<button label="Left" pos="23,295" keyid="KEY_LEFT" />
+		<button label="Right" pos="102,295" keyid="KEY_RIGHT" />
+		<button label="Info" pos="23,333" keyid="KEY_INFO" />
+		<button label="Down" pos="62,333" keyid="KEY_DOWN" />
+		<button label="Recall" pos="102,333" keyid="KEY_BACK" />
+		<button label="Red" pos="19,361" keyid="KEY_RED" />
+		<button label="Green" pos="48,361" keyid="KEY_GREEN" />
+		<button label="Yellow" pos="76,361" keyid="KEY_YELLOW" />
+		<button label="Blue" pos="105,361" keyid="KEY_BLUE" />
+		<button label="Rewind" pos="20,387" keyid="KEY_REWIND" />
+		<button label="Play" pos="48,387" keyid="KEY_PLAY" />
+		<button label="Pause" pos="76,387" keyid="KEY_PAUSE" />
+		<button label="Fast Forward" pos="104,387" keyid="KEY_FASTFORWARD" />
+		<button label="Audio" pos="20,404" keyid="KEY_AUDIO" />
+		<button label="Stop" pos="48,404" keyid="KEY_STOP" />
+		<button label="Record" pos="76,404" keyid="KEY_RECORD" />
+		<button remap="KEY_BOOKMARKS" label="Context" pos="104,404" keyid="KEY_KEYBOARD" />
+		<button label="TXT" pos="20,422" keyid="KEY_TEXT" />
+		<button label="SUBT" pos="48,422" keyid="KEY_SUBTITLE" />
+		<button label="TV/Radio" pos="76,422" keyid="KEY_TV" />
+		<button label="FAV" pos="104,422" keyid="KEY_FAVORITES" />
+	</buttons>
+</remote>

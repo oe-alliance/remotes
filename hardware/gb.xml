@@ -1,15 +1,14 @@
 <!-- model="gb800se,gb800solo,gb800ue,gbquad,gb800seplus,gb800ueplus,gbultraue,gbquadplus,gbipbox,gbx1,gbx2,gbx3,gbx3h,gbquad4k,gbue4k,gbtrio4k,gbx34k,gbip4k"-->
 <hardware>
-    <remotes>
-        <remote rcName="gb0" name="GigaBlue Classic remote" />
-        <remote rcName="gb1" name="GigaBlue Universal remote" />
-        <remote rcName="gb2" name="GigaBlue V2 Universal remote" />
-        <remote rcName="gb3" name="GigaBlue V3 Universal remote" />
-        <remote rcName="gb4" name="GigaBlue V2 remote" />
-        <remote rcName="gb5" name="GigaBlue ATV remote" />
+    <remotes proc="/proc/stb/ir/rc/customcode">
+        <remote rcName="gb0" name="GigaBlue Classic" />
+        <remote rcName="gb1" unitCodes="1,2" prompt="Help1" name="GigaBlue Universal" />
+        <remote rcName="gb2" unitCodes="1,2" prompt="Help1" name="GigaBlue V2 Universal" />
+        <remote rcName="gb3" unitCodes="1,2" prompt="Help1" name="GigaBlue V3 Universal" />
+        <remote rcName="gb4" unitCodes="1,2" prompt="Help1" name="GigaBlue V2" />
+        <remote rcName="gb5" name="GigaBlue ATV" />
     </remotes>
-    <units proc="/proc/stb/ir/rc/customcode" exclude="gb0,gb5">
-        <unit code="1" name="Device select code number 1" />
-        <unit code="2" name="Device select code number 2" />
-    </units>
+	<prompts>
+		<prompt name="Help1" text="Please change now the mode on your RCU.\n\nPress and hold 'GIGA' &amp; '5' for 5 seconds.\nThen choose 'Confirm'"/>
+	</prompts>
 </hardware>

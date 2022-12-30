@@ -1,0 +1,40 @@
+<remote>
+	<buttons>
+		<button label="MUTE" pos="36,32" keyid="KEY_MUTE" />
+		<button label="POWER" pos="114,32" keyid="KEY_POWER" />
+		<button label="2" pos="74,59" keyid="KEY_2" />
+		<button label="1" pos="37,61" keyid="KEY_1" />
+		<button label="3" pos="114,61" keyid="KEY_3" />
+		<button label="5" pos="74,87" keyid="KEY_5" />
+		<button label="4" pos="37,89" keyid="KEY_4" />
+		<button label="6" pos="99,89" keyid="KEY_6" />
+		<button label="8" pos="74,116" keyid="KEY_8" />
+		<button label="7" pos="39,118" keyid="KEY_7" />
+		<button label="9" pos="112,118" keyid="KEY_9" />
+		<button label="0" pos="75,145" keyid="KEY_0" />
+		<button label="MENU" pos="40,147" keyid="KEY_MENU" />
+		<button label="TEXT" pos="113,147" keyid="KEY_TEXT" />
+		<button label="GREEN" pos="61,182" keyid="KEY_GREEN" />
+		<button label="YELLOW" pos="89,182" keyid="KEY_YELLOW" />
+		<button label="RED" pos="35,184" keyid="KEY_RED" />
+		<button label="BLUE" pos="116,184" keyid="KEY_BLUE" />
+		<button label="VOLUMEUP" pos="42,218" keyid="KEY_VOLUMEUP" />
+		<button label="CHANNELUP" pos="110,218" keyid="KEY_CHANNELUP" />
+		<button label="INFO" pos="75,219" keyid="KEY_INFO" />
+		<button label="VOLUMEDOWN" pos="41,255" keyid="KEY_VOLUMEDOWN" />
+		<button label="CHANNELDOWN" pos="110,255" keyid="KEY_CHANNELDOWN" />
+		<button label="UP" pos="75,256" keyid="KEY_UP" />
+		<button label="LEFT" pos="41,286" keyid="KEY_LEFT" />
+		<button label="OK" pos="75,286" keyid="KEY_OK" />
+		<button label="RIGHT" pos="110,286" keyid="KEY_RIGHT" />
+		<button label="EXIT" pos="41,316" keyid="KEY_EXIT" />
+		<button label="EPG" pos="110,316" keyid="KEY_EPG" />
+		<button label="DOWN" pos="75,318" keyid="KEY_DOWN" />
+		<button label="REWIND" pos="40,348" keyid="KEY_REWIND" />
+		<button label="FASTFORWARD" pos="113,348" keyid="KEY_FASTFORWARD" />
+		<button label="PLAY" pos="75,351" keyid="KEY_PLAY" />
+		<button label="PAUSE" pos="40,377" keyid="KEY_PAUSE" />
+		<button label="STOP" pos="113,377" keyid="KEY_STOP" />
+		<button label="RECORD" pos="75,379" keyid="KEY_RECORD" />
+	</buttons>
+</remote>
