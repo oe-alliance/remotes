@@ -169,11 +169,11 @@
 	<remote model="osmega" rcType="0" codeName="xcore3" displayName="OS Mega" />
 	<remote model="osmini" rcType="0" codeName="xcore3" displayName="OS Mini" />
 	<remote model="osmini4k" rcType="0" codeName="edision3" displayName="OS Mini 4K" />
-	<remote model="osminiplus" rcType="0" codeName="xcore3" displayName="OS Mini Plus" />
+	<remote model="osminiplus" rcType="0" codeName="edision2" displayName="OS Mini Plus" />
 	<remote model="osmio4k" rcType="0" codeName="edision3" displayName="OS Mio 4K" />
 	<remote model="osmio4kplus" rcType="0" codeName="edision3" displayName="OS Mio 4K Plus" />
 	<remote model="osnino" rcType="0" codeName="edision1" displayName="OS Nino" />
-	<remote model="osninoplus" rcType="0" codeName="edision2" displayName="OS Nino Plus" />
+	<remote model="osninoplus" rcType="0" codeName="edision1" displayName="OS Nino Plus" />
 	<remote model="osninopro" rcType="0" codeName="edision2" displayName="OS Nino Pro" />
 	<remote model="protek4kx1" rcType="0" codeName="protek3" displayName="Protek 4K X1" />
 	<remote model="protek4kx2" rcType="0" codeName="protek3" displayName="Protek 4K X2" />
@@ -318,6 +318,7 @@
 	<remote model="inihdx" rcType="10" codeName="beyonwiz1" displayName="Beyonwiz T3 - 0xAE97 Code set" />
 	<remote model="spark" rcType="10" codeName="spark" displayName="Spark" />
 	<remote model="spark7162" rcType="10" codeName="spark" displayName="Spark 7162" />
+	<remote model="et6500" rcType="11" codeName="et6500" displayName="Xtrend ET6500" />
 	<remote model="tf7700" rcType="11" codeName="tf7700" displayName="TF 7700" />
 	<remote model="ufs912" rcType="12" codeName="ufs912" displayName="Ufs 912" />
 	<remote model="cuberevo" rcType="13" codeName="cuberevo_uni" displayName="Cuberevo" />
