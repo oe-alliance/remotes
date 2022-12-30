@@ -416,11 +416,11 @@
 	<remote model="forever_nanosmart" rcType="23" codeName="hs9510" displayName="Forever NanoSmart" />
 	<remote model="e4hd" rcType="24" codeName="e4hd" displayName="Axas E4HD" />
 	<remote model="e4hdultra" rcType="24" codeName="e4hdcombo" displayName="Axas E4HD Ultra" />
-	<remote model="h0" rcType="25" codeName="zgemma3" displayName="AirDigital Zgemma H0" />
-	<remote model="h8" rcType="25" codeName="zgemma3" displayName="AirDigital Zgemma H8" />
-	<remote model="h9" rcType="25" codeName="zgemma3" displayName="AirDigital Zgemma H9 - Old model" />
-	<remote model="i55plus" rcType="25" codeName="zgemma3" displayName="AirDigital Zgemma i55 Plus - Old model" />
-	<remote model="zgemmai55plus" rcType="25" codeName="zgemma3" displayName="AirDigital Zgemma i55 Plus" />
+	<remote model="h0" rcType="25" codeName="zgemma8" displayName="AirDigital Zgemma H0" />
+	<remote model="h8" rcType="25" codeName="zgemma8" displayName="AirDigital Zgemma H8" />
+	<remote model="h9" rcType="25" codeName="zgemma8" displayName="AirDigital Zgemma H9 - Old model" />
+	<remote model="i55plus" rcType="25" codeName="zgemma8" displayName="AirDigital Zgemma i55 Plus - Old model" />
+	<remote model="zgemmai55plus" rcType="25" codeName="zgemma8" displayName="AirDigital Zgemma i55 Plus" />
 	<remote model="hd61" rcType="26" codeName="ax4" displayName="Protek/AX HD61" />
 	<remote model="ax61" rcType="26" codeName="ax4" displayName="AX HD61" />
 	<remote model="protek4k" rcType="26" codeName="protek2" displayName="Protek X1 4K UHD" />

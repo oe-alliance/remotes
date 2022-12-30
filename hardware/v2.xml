@@ -18,7 +18,7 @@
 			<remote rcName="zgemma5" rcType="22" name="Zgemma i55" />
 			<remote rcName="wwio1" rcType="23" name="WWIO 4K" />
 			<remote rcName="e4hd" rcType="24" name="Axas E4HD Ultra" />
-			<remote rcName="zgemma3" rcType="25" name="Zgemma H8/H0/H9/I55Plus old model" />
+			<remote rcName="zgemma8" rcType="25" name="Zgemma H8/H0/H9/I55Plus old model" />
 			<remote rcName="ax4" rcType="26" name="Protek 4K UHD/HD61" />
 			<remote rcName="hd60" rcType="27" name="HD60/HD66SE/Multibox/Multiboxse/Multiboxpro" />
 			<remote rcName="zgemma6" rcType="28" name="i55SE/H7/H9/H9SE/H9COMBO/H9COMBOSE/H10/H11 new model" />
