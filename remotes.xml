@@ -199,7 +199,7 @@
 	<remote model="sf208" rcType="0" codeName="sf2x8" displayName="SF208" />
 	<remote model="sf228" rcType="0" codeName="sf2x8" displayName="SF228" />
 	<remote model="sf238" rcType="0" codeName="sf2x8" displayName="SF238" />
-	<remote model="sf8008" rcType="0" codeName="sf8008" displayName="SF8008" />
+	<remote model="sf8008" rcType="0" codeName="octagon3" displayName="SF8008" />
 	<remote model="sf8008m" rcType="0" codeName="sf8008" displayName="SF8008m" />
 	<remote model="sf8008opt" rcType="0" codeName="sf8008" displayName="sf8008opt" />
 	<remote model="sfx6008" rcType="0" codeName="octagon3" displayName="sfx6008" />
