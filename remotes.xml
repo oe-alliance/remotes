@@ -100,7 +100,7 @@
 	<remote model="gbquad" rcType="0" codeName="gb0" displayName="GigaBlue Quad" />
 	<remote model="gbquad4k" rcType="0" codeName="gb3" displayName="GigaBlue Quad 4K" />
 	<remote model="gbtrio4k" rcType="0" codeName="gb4" displayName="GigaBlue Trio 4K" />
-	<remote model="gbtrio4kpro" rcType="0" codeName="gb5" displayName="GigaBlue Trio 4K PRO" />
+	<remote model="gbtrio4kpro" rcType="0" codeName="gb6" displayName="GigaBlue Trio 4K PRO" />
 	<remote model="gbue4k" rcType="0" codeName="gb3" displayName="GigaBlue UHD UE 4K - Old Model" />
 	<remote model="gbue4k" rcType="0" codeName="gb4" displayName="GigaBlue UHD UE 4K - New Model" />
 	<remote model="gbultrase" rcType="0" codeName="gb0" displayName="GigaBlue Ultra SE" />
