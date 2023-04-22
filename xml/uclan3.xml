@@ -1,0 +1,61 @@
+<remote>
+	<buttons>
+		<button label="MODE" title="Resolution" pos="0,0" key="KEY_MODE" />
+		<button label="" title="TV Power" pos="25,27" key="KEY_RESERVED" />
+		<button label="POWER" title="POWER" pos="95,27" key="KEY_POWER" />
+		<button label="" title="TV Volume -" pos="23,51" key="KEY_RESERVED" />
+		<button label="" title="TV Volume +" pos="48,51" key="KEY_RESERVED" />
+		<button label="" title="TV Set / IR Learning" pos="74,51" key="KEY_RESERVED" />
+		<button label="" title="TV A/V" pos="99,51" key="KEY_RESERVED" />
+		<button label="1" title="1" pos="25,74" key="KEY_1" />
+		<button label="2" title="2 (ABC)" pos="60,74" key="KEY_2" />
+		<button label="3" title="3 (DEF)" pos="95,74" key="KEY_3" />
+		<button label="4" title="4 (GHI)" pos="25,102" key="KEY_4" />
+		<button label="5" title="5 (JKL)" pos="60,102" key="KEY_5" />
+		<button label="6" title="6 (MNO)" pos="95,102" key="KEY_6" />
+		<button label="7" title="7 (PQRS)" pos="25,130" key="KEY_7" />
+		<button label="8" title="8 (TUV)" pos="60,130" key="KEY_8" />
+		<button label="9" title="9 (WXYZ)" pos="95,130" key="KEY_9" />
+		<button label="MUTE" title="Mute" pos="25,157" key="KEY_MUTE" />
+		<button label="0" title="0" pos="60,157" key="KEY_0" />
+		<button label="SAT" title="Sat" pos="95,157" key="KEY_SAT" />
+		<button label="TV" title="TV / Radio" pos="23,179" key="KEY_TV2" />
+		<button label="SUBTITLE" title="Subtitle" pos="48,179" key="KEY_SUBTITLE" />
+		<button label="VOD" title="VOD" pos="74,179" key="KEY_VIDEO" />
+		<button label="AUDIO" title="Audio" pos="99,179" key="KEY_AUDIO" />
+		<button label="OPTION" title="Option" pos="23,198" key="KEY_OPTION" />
+		<button label="YOUTUBE" title="YouTube" pos="48,198" key="KEY_MP3" />
+		<button label="WEBTV" title="WebTV" pos="74,198" key="KEY_VOD" />
+		<button label="" title="Weather" pos="99,198" key="KEY_RESERVED" />
+		<button label="INFO" title="Info" pos="20,222" key="KEY_INFO" />
+		<button label="RECALL" title="Recall" pos="100,222" key="KEY_BACK" />
+		<button label="UP" title="Up" pos="59,225" key="KEY_UP" />
+		<button label="LEFT" title="Left" pos="31,253" key="KEY_LEFT" />
+		<button label="OK" title="OK" pos="59,253" key="KEY_OK" />
+		<button label="RIGHT" title="Right" pos="86,253" key="KEY_RIGHT" />
+		<button label="DOWN" title="Down" pos="59,280" key="KEY_DOWN" />
+		<button label="MENU" title="Menu" pos="22,287" key="KEY_MENU" />
+		<button label="EXIT" title="Exit" pos="98,287" key="KEY_EXIT" />
+		<button label="VOL+" title="Volume +" pos="27,315" key="KEY_VOLUMEUP" />
+		<button label="BOUQUET+" title="Channel +" pos="92,315" key="KEY_CHANNELUP" />
+		<button label="FAV" title="Favorites" pos="60,316" key="KEY_FAVORITES" />
+		<button label="EPG" title="EPG" pos="60,342" key="KEY_EPG" />
+		<button label="VOL-" title="Volume -" pos="27,344" key="KEY_VOLUMEDOWN" />
+		<button label="BOUQUET-" title="Channel -" pos="92,344" key="KEY_CHANNELDOWN" />
+		<button label="RED" title="Red" pos="23,367" key="KEY_RED" />
+		<button label="GREEN" title="Green" pos="48,367" key="KEY_GREEN" />
+		<button label="YELLOW" title="Yellow" pos="73,367" key="KEY_YELLOW" />
+		<button label="BLUE" title="Blue" pos="97,367" key="KEY_BLUE" />
+		<button label="SLEEP" title="Sleep" pos="23,386" key="KEY_SLEEP" />
+		<button label="VMODE" title="VFormat" pos="47,386" key="KEY_VMODE" />
+		<button label="TEXT" title="Text" pos="96,386" key="KEY_TEXT" />
+		<button label="REWIND" title="Rewind" pos="24,405" key="KEY_REWIND" />
+		<button label="FASTFORWARD" title="Fast Forward" pos="47,405" key="KEY_FASTFORWARD" />
+		<button label="PREVIOUS" title="Previous" pos="72,405" key="KEY_PREVIOUS" />
+		<button label="NEXT" title="Next" pos="96,405" key="KEY_NEXT" />
+		<button label="PLAY" pos="24,423" key="KEY_PLAY" />
+		<button label="PAUSE" pos="47,423" key="KEY_PAUSE" />
+		<button label="STOP" title="Stop" pos="72,423" key="KEY_STOP" />
+		<button label="RECORD" title="Record" pos="95,423" key="KEY_RECORD" />
+	</buttons>
+</remote>

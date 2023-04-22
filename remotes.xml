@@ -100,7 +100,7 @@
 	<remote model="gbquad" rcType="0" codeName="gb0" displayName="GigaBlue Quad" />
 	<remote model="gbquad4k" rcType="0" codeName="gb3" displayName="GigaBlue Quad 4K" />
 	<remote model="gbtrio4k" rcType="0" codeName="gb4" displayName="GigaBlue Trio 4K" />
-	<remote model="gbtrio4kplus" rcType="0" codeName="gb5" displayName="GigaBlue Trio 4K Plus" />
+	<remote model="gbtrio4kpro" rcType="0" codeName="gb6" displayName="GigaBlue Trio 4K PRO" />
 	<remote model="gbue4k" rcType="0" codeName="gb3" displayName="GigaBlue UHD UE 4K - Old Model" />
 	<remote model="gbue4k" rcType="0" codeName="gb4" displayName="GigaBlue UHD UE 4K - New Model" />
 	<remote model="gbultrase" rcType="0" codeName="gb0" displayName="GigaBlue Ultra SE" />
@@ -169,11 +169,11 @@
 	<remote model="osmega" rcType="0" codeName="xcore3" displayName="OS Mega" />
 	<remote model="osmini" rcType="0" codeName="xcore3" displayName="OS Mini" />
 	<remote model="osmini4k" rcType="0" codeName="edision3" displayName="OS Mini 4K" />
-	<remote model="osminiplus" rcType="0" codeName="xcore3" displayName="OS Mini Plus" />
+	<remote model="osminiplus" rcType="0" codeName="edision2" displayName="OS Mini Plus" />
 	<remote model="osmio4k" rcType="0" codeName="edision3" displayName="OS Mio 4K" />
 	<remote model="osmio4kplus" rcType="0" codeName="edision3" displayName="OS Mio 4K Plus" />
 	<remote model="osnino" rcType="0" codeName="edision1" displayName="OS Nino" />
-	<remote model="osninoplus" rcType="0" codeName="edision2" displayName="OS Nino Plus" />
+	<remote model="osninoplus" rcType="0" codeName="edision1" displayName="OS Nino Plus" />
 	<remote model="osninopro" rcType="0" codeName="edision2" displayName="OS Nino Pro" />
 	<remote model="protek4kx1" rcType="0" codeName="protek3" displayName="Protek 4K X1" />
 	<remote model="protek4kx2" rcType="0" codeName="protek3" displayName="Protek 4K X2" />
@@ -199,7 +199,7 @@
 	<remote model="sf208" rcType="0" codeName="sf2x8" displayName="SF208" />
 	<remote model="sf228" rcType="0" codeName="sf2x8" displayName="SF228" />
 	<remote model="sf238" rcType="0" codeName="sf2x8" displayName="SF238" />
-	<remote model="sf8008" rcType="0" codeName="sf8008" displayName="SF8008" />
+	<remote model="sf8008" rcType="0" codeName="octagon1" displayName="SF8008" />
 	<remote model="sf8008m" rcType="0" codeName="sf8008" displayName="SF8008m" />
 	<remote model="sf8008opt" rcType="0" codeName="sf8008" displayName="sf8008opt" />
 	<remote model="sfx6008" rcType="0" codeName="octagon3" displayName="sfx6008" />
@@ -246,6 +246,7 @@
 	<remote model="uniboxhde" rcType="0" codeName="uniboxhde" displayName="Unibox HDe" />
 	<remote model="ustym4kpro" rcType="0" codeName="uclan1" displayName="Ustym 4K Pro" />
 	<remote model="ustym4kott" rcType="0" codeName="uclan2" displayName="Ustym 4K OTT" />
+	<remote model="ustym4ks2ottx" rcType="0" codeName="uclan3" displayName="Ustym 4K S2 OTTx" />
 	<remote model="valalinux" rcType="0" codeName="vala" displayName="Vala Linux" />
 	<remote model="ventonhdx" rcType="0" codeName="ini0" displayName="Venton HDx" />
 	<remote model="viper4k" rcType="0" codeName="amiko4" displayName="Viper 4K" />
@@ -318,6 +319,7 @@
 	<remote model="inihdx" rcType="10" codeName="beyonwiz1" displayName="Beyonwiz T3 - 0xAE97 Code set" />
 	<remote model="spark" rcType="10" codeName="spark" displayName="Spark" />
 	<remote model="spark7162" rcType="10" codeName="spark" displayName="Spark 7162" />
+	<remote model="et6500" rcType="11" codeName="et6500" displayName="Xtrend ET6500" />
 	<remote model="tf7700" rcType="11" codeName="tf7700" displayName="TF 7700" />
 	<remote model="ufs912" rcType="12" codeName="ufs912" displayName="Ufs 912" />
 	<remote model="cuberevo" rcType="13" codeName="cuberevo_uni" displayName="Cuberevo" />

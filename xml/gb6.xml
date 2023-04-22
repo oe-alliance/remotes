@@ -1,0 +1,57 @@
+<remote>
+	<buttons>
+		<button label="POWER" pos="57,19" title="Power" key="KEY_POWER" />
+		<button label="TV/RAD" pos="23,21" title="TV / Radio" key="KEY_TV" />
+		<button label="MUTE" pos="91,21" title="Mute" key="KEY_MUTE" />
+		<button label="GIGA" pos="22,45" title="GIGA" key="KEY_RESERVED" />
+		<button label="TV" pos="46,45" title="TV" key="KEY_RESERVED" />
+		<button label="DVD" pos="69,45" title="DVD" key="KEY_RESERVED" />
+		<button label="AUX" pos="92,45" title="AUX" key="KEY_RESERVED" />
+		<button label="1" pos="26,65" title="1" key="KEY_1" />
+		<button label="2" pos="57,65" title="2 (ABC)" key="KEY_2" />
+		<button label="3" pos="88,65" title="3 (DEF)" key="KEY_3" />
+		<button label="4" pos="26,84" title="4 (GHI)" key="KEY_4" />
+		<button label="5" pos="57,84" title="5 (JKL)" key="KEY_5" />
+		<button label="6" pos="88,84" title="6 (MNO)" key="KEY_6" />
+		<button label="7" pos="26,103" title="7 (PQRS)" key="KEY_7" />
+		<button label="8" pos="57,103" title="8 (TUV)" key="KEY_8" />
+		<button label="9" pos="88,103" title="9 (WXYZ)" key="KEY_9" />
+		<button label="&lt;PREV" pos="26,122" title="Previous / Arrow Left" key="KEY_PREVIOUS" />
+		<button label="0" pos="57,122" title="0" key="KEY_0" />
+		<button label="NEXT&gt;" pos="88,122" title="Next / Arrow Right" key="KEY_NEXT" />
+		<button label="RED" pos="22,142" title="Red" key="KEY_RED" />
+		<button label="GREEN" pos="46,142" title="Green" key="KEY_GREEN" />
+		<button label="YELLOW" pos="69,142" title="Yellow" key="KEY_YELLOW" />
+		<button label="BLUE" pos="92,142" title="Blue" key="KEY_BLUE" />
+		<button label="INFO" pos="24,163" title="Info" key="KEY_INFO" />
+		<button label="MENU" pos="90,163" title="Menu" key="KEY_MENU" />
+		<button label="UP" pos="57,176" title="Up" key="KEY_UP" />
+		<button label="LEFT" pos="29,204" title="Left" key="KEY_LEFT" />
+		<button label="OK" pos="56,204" title="OK" key="KEY_OK" />
+		<button label="RIGHT" pos="85,204" title="Right" key="KEY_RIGHT" />
+		<button label="DOWN" pos="57,232" title="Down" key="KEY_DOWN" />
+		<button label="AUDIO" pos="25,247" title="Audio" key="KEY_AUDIO" />
+		<button label="VIDEO" pos="89,247" title="Video" key="KEY_VIDEO" />
+		<button label="EXIT" pos="57,273" title="Exit" key="KEY_EXIT" />
+		<button label="VOL +" pos="26,274" title="Volume +" key="KEY_VOLUMEUP" />
+		<button label="CH +" pos="90,275" title="Channel +" key="KEY_CHANNELUP" />
+		<button label="EPG" pos="57,301" title="Guide / EPG" key="KEY_EPG" />
+		<button label="VOL -" pos="26,303" title="Volume -" key="KEY_VOLUMEDOWN" />
+		<button label="CH -" pos="90,303" title="Channel -" key="KEY_CHANNELDOWN" />
+		<button label="HISTORY" pos="26,328" title="History" key="KEY_ARCHIVE" />
+		<button label="OPTION" pos="57,328" title="Option" key="KEY_OPTION" />
+		<button label="CONTEXT" pos="89,328" title="Context / Favourites" key="KEY_FAVORITES" />
+		<button label="SUBT" pos="26,347" title="Subtitle" key="KEY_SUBTITLE" />
+		<button remap="KEY_SWITCHVIDEOMODE" label="ASPECT" pos="57,347" title="Aspect" key="KEY_SCREEN" />
+		<button label="TEXT" pos="88,347" title="Text" key="KEY_TEXT" />
+		<button label="TIMER" pos="26,368" title="Timer" key="KEY_PROGRAM" />
+		<button label="STOP" pos="57,368" title="Stop" key="KEY_STOP" />
+		<button label="RECORD" pos="89,368" title="Record" key="KEY_RECORD" />
+		<button label="REWIND" pos="26,389" title="Rewind" key="KEY_REWIND" />
+		<button label="PLAY/PAUSE" pos="57,389" title="Play / Pause" key="KEY_PLAYPAUSE" />
+		<button label="FAST FORWARD" pos="88,389" title="Fast Forward" key="KEY_FASTFORWARD" />
+		<button remap="KEY_HELP" label="F1/HELP" pos="26,409" title="F1 / Help" key="KEY_F1" />
+		<button label="PLAYLIST" pos="57,409" title="Play List" key="KEY_LIST" />
+		<button remap="KEY_SCREEN" label="PIP" pos="88,409" title="PIP" key="KEY_F2" />
+	</buttons>
+</remote>
