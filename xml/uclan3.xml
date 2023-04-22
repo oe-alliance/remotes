@@ -47,7 +47,7 @@
 		<button id="KEY_BLUE" label="BLUE" title="Blue" pos="97,367" shape="rect" size="22,16" />
 		<button id="KEY_SLEEP" label="SLEEP" title="Sleep" pos="23,386" shape="rect" size="22,16" />
 		<button id="KEY_VMODE" label="VMODE" title="VFormat" pos="47,386" shape="rect" size="22,16" />
-		<button id="KEY_MODE" label="MODE" title="Resolution" shape="rect" size="22,16" />
+		<button id="KEY_MODE" label="MODE" title="Resolution" pos="0,0" shape="rect" size="22,16" />
 		<button id="KEY_TEXT" label="TEXT" title="Text" pos="96,386" shape="rect" size="22,16" />
 		<button id="KEY_REWIND" label="REWIND" title="Rewind" pos="24,405" shape="rect" size="21,16" />
 		<button id="KEY_FASTFORWARD" label="FASTFORWARD" title="Fast Forward" pos="47,405" shape="rect" size="22,16" />
