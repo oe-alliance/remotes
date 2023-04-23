@@ -31,7 +31,7 @@
 		<button id="KEY_EXIT" label="EXIT" pos="21,249" />
 		<button id="KEY_EPG" label="EPG" pos="99,249" />
 		<button id="KEY_VOLUMEUP" label="VOL +" pos="26,281" />
-		<button id="KEY_RESERVED" label="PORTAL" pos="61,279" />
+		<button id="KEY_BOOKMARKS" label="PORTAL" pos="61,279" />
 		<button id="KEY_CHANNELUP" label="CH +" pos="95,281" />
 		<button id="KEY_VOLUMEDOWN" label="VOL -" pos="26,306" />
 		<button id="KEY_PVR" label="PVR" pos="61,306" />
