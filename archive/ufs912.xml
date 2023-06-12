@@ -1,0 +1,43 @@
+<remote>
+	<buttons>
+		<button label="POWER" pos="83,37" key="KEY_POWER" />
+		<button label="HELP" pos="38,38" key="KEY_HELP" />
+		<button label="1" pos="39,66" key="KEY_1" />
+		<button label="2" pos="70,66" key="KEY_2" />
+		<button label="3" pos="99,66" key="KEY_3" />
+		<button label="4" pos="39,99" key="KEY_4" />
+		<button label="5" pos="70,99" key="KEY_5" />
+		<button label="6" pos="99,99" key="KEY_6" />
+		<button label="7" pos="39,120" key="KEY_7" />
+		<button label="8" pos="70,120" key="KEY_8" />
+		<button label="9" pos="99,120" key="KEY_9" />
+		<button label="0" pos="70,149" key="KEY_0" />
+		<button label="MENU" pos="40,150" key="KEY_MENU" />
+		<button label="TEXT" pos="98,150" key="KEY_TEXT" />
+		<button label="VOLUMEDOWN" pos="39,180" key="KEY_VOLUMEDOWN" />
+		<button label="VOLUMEUP" pos="98,180" key="KEY_VOLUMEUP" />
+		<button label="CHANNELUP" pos="69,182" key="KEY_CHANNELUP" />
+		<button label="CHANNELDOWN" pos="69,209" key="KEY_CHANNELDOWN" />
+		<button label="INFO" pos="101,210" key="KEY_INFO" />
+		<button label="MUTE" pos="42,212" key="KEY_MUTE" />
+		<button label="RED" pos="35,243" key="KEY_RED" />
+		<button label="GREEN" pos="59,243" key="KEY_GREEN" />
+		<button label="YELLOW" pos="82,243" key="KEY_YELLOW" />
+		<button label="BLUE" pos="106,243" key="KEY_BLUE" />
+		<button label="EPG" pos="38,273" key="KEY_EPG" />
+		<button label="UP" pos="70,274" key="KEY_UP" />
+		<button label="ARCHIV" pos="102,274" key="KEY_FILE" />
+		<button label="LEFT" pos="39,306" key="KEY_LEFT" />
+		<button label="OK" pos="70,306" key="KEY_OK" />
+		<button label="RIGHT" pos="101,306" key="KEY_RIGHT" />
+		<button label="BACK" pos="38,337" key="KEY_EXIT" />
+		<button label="MEDIA" pos="102,337" key="KEY_MEDIA" />
+		<button label="DOWN" pos="70,338" key="KEY_DOWN" />
+		<button label="REWIND" pos="41,367" key="KEY_REWIND" />
+		<button label="PLAY" pos="71,367" key="KEY_PLAY" />
+		<button label="FASTFORWARD" pos="102,367" key="KEY_FASTFORWARD" />
+		<button label="PAUSE" pos="39,393" key="KEY_PAUSE" />
+		<button label="RECORD" pos="71,393" key="KEY_RECORD" />
+		<button label="STOP" pos="103,393" key="KEY_STOP" />
+	</buttons>
+</remote>
