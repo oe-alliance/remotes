@@ -62,7 +62,7 @@
 	<remote model="dm8000" rcType="0" codeName="dmm0" displayName="Dream Multimedia 8000" />
 	<remote model="dreamone" rcType="0" codeName="dmm3" displayName="Dream Multimedia One" />
 	<remote model="dreamtwo" rcType="0" codeName="dmm3" displayName="Dream Multimedia Two" />
-	<remote model="dual" rcType="0" codeName="qviart5" displayName="Dual" />
+	<remote model="dual" rcType="0" codeName="qviart7" displayName="Dual" />
 	<remote model="e4hdcombo" rcType="0" codeName="e4hdcombo" displayName="E4HD Combo" />
 	<remote model="e4hdhybrid" rcType="0" codeName="e4hd" displayName="E4HD Hybrid" />
 	<remote model="ebox5000" rcType="0" codeName="ebox5000" displayName="Ebox 5000" />
