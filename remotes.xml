@@ -159,7 +159,8 @@
 	<remote model="odin2hybrid" rcType="0" codeName="ax1" displayName="Odin 2 Hybrid" />
 	<remote model="odinplus" rcType="0" codeName="ax1" displayName="Odin Plus" />
 	<remote model="odroidc2" rcType="0" codeName="hardkernel" displayName="Odroid C2" />
-	<remote model="og2ott4k" rcType="0" codeName="qviart6" displayName="OG2 4K" />
+	<remote model="og2ott4k" rcType="0" codeName="qviart6" displayName="OG2 OTT 4K" />
+	<remote model="og2s4k" rcType="0" codeName="qviart8" displayName="OG2 2S 4K" />
 	<remote model="opticumtt" rcType="0" codeName="ini8" displayName="Opticumtt" />
 	<remote model="optimussos" rcType="0" codeName="optimuss1" displayName="Optimussos" />
 	<remote model="optimussos1" rcType="0" codeName="optimuss1" displayName="Optimussos 1" />
