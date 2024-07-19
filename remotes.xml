@@ -448,6 +448,7 @@
 	<remote model="maxytecmultise" rcType="27" codeName="maxytec1" displayName="Maxytec MultiBox SE" />
 	<remote model="h7" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H7 - New model" />
 	<remote model="zgemmah7" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H7" />
+	<remote model="zgemmah17combo" rcType="28" codeName="zgemma7" displayName="AirDigital Zgemma H17 COMBO" />
 	<remote model="zgemmah82h" rcType="28" codeName="zgemma3" displayName="AirDigital Zgemma H8.2H" />
 	<remote model="h9" rcType="28" codeName="zgemma6" displayName="AirDigital Zgemma H9 - New model" />
 	<remote model="zgemmah9s" rcType="28" codeName="zgemma6" displayName="AirDigital Zgemma H9.S" />
