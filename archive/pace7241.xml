@@ -1,0 +1,43 @@
+<remote>
+	<buttons>
+		<button label="TV" pos="27,26" key="KEY_TV2" />
+		<button label="POWER" pos="89,26" key="KEY_POWER" />
+		<button label="KEY1" pos="27,54" key="KEY_RESERVED" />
+		<button label="KEY2" pos="58,54" key="KEY_RESERVED" />
+		<button label="KEY3" pos="89,54" key="KEY_RESERVED" />
+		<button label="MUTE" pos="58,80" key="KEY_MUTE" />
+		<button label="KEY_B" pos="27,92" key="KEY_B" />
+		<button label="KEY_D" pos="58,92" key="KEY_D" />
+		<button label="KEY_X" pos="36,109" key="KEY_X" />
+		<button label="KEY_A" pos="27,121" key="KEY_A" />
+		<button label="KEY_E" pos="89,121" key="KEY_E" />
+		<button label="KEY_PLUS" pos="58,139" key="KEY_PLUS" />
+		<button label="PILOT" pos="34,162" key="KEY_RESERVED" />
+		<button label="PROG" pos="84,162" key="KEY_RESERVED" />
+		<button label="UP" pos="59,187" key="KEY_UP" />
+		<button label="LEFT" pos="32,214" key="KEY_LEFT" />
+		<button label="OK" pos="60,214" key="KEY_OK" />
+		<button label="RIGHT" pos="87,214" key="KEY_RIGHT" />
+		<button label="DOWN" pos="60,241" key="KEY_DOWN" />
+		<button label="REWIND" pos="29,266" key="KEY_REWIND" />
+		<button label="FASTFORWARD" pos="89,266" key="KEY_FASTFORWARD" />
+		<button label="PLAY" pos="59,271" key="KEY_PLAY" />
+		<button label="RECORD" pos="31,294" key="KEY_RECORD" />
+		<button label="PAUSE" pos="89,294" key="KEY_PAUSE" />
+		<button label="STOP" pos="60,296" key="KEY_STOP" />
+		<button label="PREVIOUS" pos="43,317" key="KEY_PREVIOUS" />
+		<button label="NEXT" pos="76,317" key="KEY_NEXT" />
+		<button label="1" pos="29,346" key="KEY_1" />
+		<button label="2" pos="59,346" key="KEY_2" />
+		<button label="3" pos="89,346" key="KEY_3" />
+		<button label="4" pos="29,373" key="KEY_4" />
+		<button label="5" pos="59,373" key="KEY_5" />
+		<button label="6" pos="89,373" key="KEY_6" />
+		<button label="7" pos="38,400" key="KEY_7" />
+		<button label="8" pos="49,400" key="KEY_8" />
+		<button label="9" pos="89,400" key="KEY_9" />
+		<button label="SAT" pos="31,428" key="KEY_SAT" />
+		<button label="0" pos="59,428" key="KEY_0" />
+		<button label="KEY_HD" pos="89,428" key="KEY_RESERVED" />
+	</buttons>
+</remote>

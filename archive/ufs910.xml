@@ -1,0 +1,40 @@
+<remote>
+	<buttons>
+		<button label="MUTE" pos="36,32" key="KEY_MUTE" />
+		<button label="POWER" pos="114,32" key="KEY_POWER" />
+		<button label="2" pos="74,59" key="KEY_2" />
+		<button label="1" pos="37,61" key="KEY_1" />
+		<button label="3" pos="114,61" key="KEY_3" />
+		<button label="5" pos="74,87" key="KEY_5" />
+		<button label="4" pos="37,89" key="KEY_4" />
+		<button label="6" pos="99,89" key="KEY_6" />
+		<button label="8" pos="74,116" key="KEY_8" />
+		<button label="7" pos="39,118" key="KEY_7" />
+		<button label="9" pos="112,118" key="KEY_9" />
+		<button label="0" pos="75,145" key="KEY_0" />
+		<button label="MENU" pos="40,147" key="KEY_MENU" />
+		<button label="TEXT" pos="113,147" key="KEY_TEXT" />
+		<button label="GREEN" pos="61,182" key="KEY_GREEN" />
+		<button label="YELLOW" pos="89,182" key="KEY_YELLOW" />
+		<button label="RED" pos="35,184" key="KEY_RED" />
+		<button label="BLUE" pos="116,184" key="KEY_BLUE" />
+		<button label="VOLUMEUP" pos="42,218" key="KEY_VOLUMEUP" />
+		<button label="CHANNELUP" pos="110,218" key="KEY_CHANNELUP" />
+		<button label="INFO" pos="75,219" key="KEY_INFO" />
+		<button label="VOLUMEDOWN" pos="41,255" key="KEY_VOLUMEDOWN" />
+		<button label="CHANNELDOWN" pos="110,255" key="KEY_CHANNELDOWN" />
+		<button label="UP" pos="75,256" key="KEY_UP" />
+		<button label="LEFT" pos="41,286" key="KEY_LEFT" />
+		<button label="OK" pos="75,286" key="KEY_OK" />
+		<button label="RIGHT" pos="110,286" key="KEY_RIGHT" />
+		<button label="EXIT" pos="41,316" key="KEY_EXIT" />
+		<button label="EPG" pos="110,316" key="KEY_EPG" />
+		<button label="DOWN" pos="75,318" key="KEY_DOWN" />
+		<button label="REWIND" pos="40,348" key="KEY_REWIND" />
+		<button label="FASTFORWARD" pos="113,348" key="KEY_FASTFORWARD" />
+		<button label="PLAY" pos="75,351" key="KEY_PLAY" />
+		<button label="PAUSE" pos="40,377" key="KEY_PAUSE" />
+		<button label="STOP" pos="113,377" key="KEY_STOP" />
+		<button label="RECORD" pos="75,379" key="KEY_RECORD" />
+	</buttons>
+</remote>

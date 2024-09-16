@@ -1,17 +1,15 @@
 <!-- model="vuduo,vuduo2,vuduo4k,vuduo4kse,vusolo,vusolo2,vusolo4k,vusolose,vuultimo,vuultimo4k,vuuno,vuuno4k,vuuno4kse,vuzero,vuzero4k" -->
 <hardware>
-    <remotes>
+    <remotes proc="/proc/stb/fp/remote_code" >
         <remote rcName="vu1" name="Vu+ OLD" />
-        <remote rcName="vu2" name="Vu+ Standard" />
-        <remote rcName="vu3" name="Vu+ Ultimo" />
-        <remote rcName="vu4" name="Vu+ DUO2" />
-        <remote rcName="vu5" name="Vu+ BT100" />
-        <remote rcName="vu6" name="Vu+ IR300" />
+        <remote rcName="vu2" unitCodes="1,2,3,4" prompt="Help1" name="Vu+ Standard" />
+        <remote rcName="vu3" unitCodes="1,2,3,4" prompt="Help1" name="Vu+ Ultimo" />
+        <remote rcName="vu4" unitCodes="1,2,3,4" prompt="Help1" name="Vu+ DUO2" />
+        <remote rcName="vu5" unitCodes="1,2,3,4" prompt="Help2" name="Vu+ BT100" />
+        <remote rcName="vu6" unitCodes="1,2,3,4" prompt="Help2" name="Vu+ IR300" />
     </remotes>
-    <units proc="/proc/stb/fp/remote_code" exclude="vu1">
-        <unit code="1" name="Device select code number 1" />
-        <unit code="2" name="Device select code number 2" />
-        <unit code="3" name="Device select code number 3" />
-        <unit code="4" name="Device select code number 4" />
-    </units>
+	<prompts>
+		<prompt name="Help1" text="Please change your remote mode\nPress and hold '2' &amp; '7' until red LED is solid, then press 'Help', then press '000%s'\nThen choose 'Keep' within seconds." />
+		<prompt name="Help2" text="Please change your remote mode\nPress and hold 'OK' &amp; 'STB' until red LED is solid, then press '000%s', then press 'OK'\nThen choose 'Keep' within seconds" />
+	</prompts>
 </hardware>
