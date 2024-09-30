@@ -7,6 +7,8 @@
         <remote rcName="gb3" name="GigaBlue V3 Universal remote" />
         <remote rcName="gb4" name="GigaBlue V2 remote" />
         <remote rcName="gb5" name="GigaBlue ATV remote" />
+        <remote rcName="gb6" name="GigaBlue BT1 remote" />
+        <remote rcName="gb7" name="GigaBlue BT2 remote" />
     </remotes>
     <units proc="/proc/stb/ir/rc/customcode" exclude="gb0,gb5">
         <unit code="1" name="Device select code number 1" />
