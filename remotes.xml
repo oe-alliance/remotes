@@ -271,6 +271,7 @@
 	<remote model="vuuno" rcType="0" codeName="vu2" displayName="VU+ UNO" />
 	<remote model="vuuno4k" rcType="0" codeName="vu2" displayName="VU+ UNO 4K" />
 	<remote model="vuuno4kse" rcType="0" codeName="vu6" displayName="VU+ UNO 4K SEe" />
+	<remote model="vuduo4klite" rcType="0" codeName="vu6" displayName="VU+ DUO 4K LITE" />
 	<remote model="vuzero" rcType="0" codeName="vu2" displayName="VU+ Zero" />
 	<remote model="vuzero4k" rcType="0" codeName="vu6" displayName="VU+ Zero 4K" />
 	<remote model="wetekhub" rcType="0" codeName="wetek3" displayName="Wetek Hub" />
